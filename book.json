@@ -1,0 +1,8 @@
+{
+  "name": "图书模板",
+  "generator": "site",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apebook/book-templet.git"
+  }
+}
