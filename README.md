@@ -1,5 +1,20 @@
-# 介绍
+# Introduce
 
-这是一个图书模板。
+使用GitBook创建图书
 
-[在线阅读地址](http://book.apebook.org/minghe/book-templet/index.html)
+## 使用方式
+
+1. 安装`gitbook cli`
+
+    ```javascript
+    npm install gitbook-cli -g
+    ```
+1. 运行命令
+
+    ```javascript
+    gitbook serve
+    ```
+
+
+
+
